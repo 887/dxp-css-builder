@@ -1,10 +1,11 @@
 [package]
 name = "dxp-css-builder"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 
 [[bin]]
 name = "css-builder"
+path = "src/main.rs"
 
 [workspace]
 
